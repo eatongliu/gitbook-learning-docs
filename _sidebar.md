@@ -11,15 +11,15 @@
   * [Spring编程常见错误50例](/Spring编程常见错误50例/SUMMARY)
   * [深入拆解Java虚拟机](/深入拆解Java虚拟机/SUMMARY)
   * [深入剖析Java新特性](/深入剖析Java新特性/SUMMARY)
-  * [深入拆解Tomcat & Jetty](/深入拆解Tomcat & Jetty/SUMMARY)
+  * [深入拆解Tomcat & Jetty](/深入拆解Tomcat&Jetty/SUMMARY)
   * [Go语言核心36讲](/Go语言核心36讲/SUMMARY)
-  * [Go 并发编程实战课](/Go 并发编程实战课/SUMMARY)
-  * [Go 语言项目开发实战](/Go 语言项目开发实战/SUMMARY)
-  * [Tony Bai · Go语言第一课](/Tony Bai · Go语言第一课/SUMMARY)
-  * [陈天 · Rust 编程第一课](/陈天 · Rust 编程第一课/SUMMARY)
+  * [Go 并发编程实战课](/Go并发编程实战课/SUMMARY)
+  * [Go 语言项目开发实战](/Go语言项目开发实战/SUMMARY)
+  * [Tony Bai · Go语言第一课](/TonyBai·Go语言第一课/SUMMARY)
+  * [陈天 · Rust 编程第一课](/陈天·Rust编程第一课/SUMMARY)
   * [Python核心技术与实战](/Python核心技术与实战/SUMMARY)
   * [Python自动化办公实战课](/Python自动化办公实战课/SUMMARY)
-  * [朱涛 · Kotlin编程第一课](/朱涛 · Kotlin编程第一课/SUMMARY)
+  * [朱涛 · Kotlin编程第一课](/朱涛·Kotlin编程第一课/SUMMARY)
 
 * 🗄️ 数据库与中间件
   * [MySQL实战45讲](/MySQL实战45讲/SUMMARY)
@@ -36,7 +36,7 @@
   * [如何落地业务建模](/如何落地业务建模/SUMMARY)
   * [如何设计一个秒杀系统](/如何设计一个秒杀系统/SUMMARY)
   * [高并发系统设计40问](/高并发系统设计40问/SUMMARY)
-  * [李智慧 · 高并发架构实战课](/李智慧 · 高并发架构实战课/SUMMARY)
+  * [李智慧 · 高并发架构实战课](/李智慧·高并发架构实战课/SUMMARY)
   * [许式伟的架构课](/许式伟的架构课/SUMMARY)
   * [软件设计之美](/软件设计之美/SUMMARY)
   * [分布式技术原理与算法解析](/分布式技术原理与算法解析/SUMMARY)
@@ -55,11 +55,11 @@
 
 * 🎨 前端技术
   * [重学前端](/重学前端/SUMMARY)
-  * [玩转Vue 3全家桶](/玩转Vue 3全家桶/SUMMARY)
+  * [玩转Vue 3全家桶](/玩转Vue3全家桶/SUMMARY)
   * [跟月影学可视化](/跟月影学可视化/SUMMARY)
-  * [React Native 新架构实战课](/React Native 新架构实战课/SUMMARY)
+  * [React Native 新架构实战课](/ReactNative新架构实战课/SUMMARY)
   * [浏览器工作原理与实践](/浏览器工作原理与实践/SUMMARY)
-  * [图解 Google V8](/图解 Google V8/SUMMARY)
+  * [图解 Google V8](/图解GoogleV8/SUMMARY)
   * [WebAssembly入门课](/WebAssembly入门课/SUMMARY)
 
 * 🤖 AI与机器学习
@@ -89,7 +89,7 @@
   * [Web漏洞挖掘实战](/Web漏洞挖掘实战/SUMMARY)
   * [反爬虫兵法演绎20讲](/反爬虫兵法演绎20讲/SUMMARY)
   * [实用密码学](/实用密码学/SUMMARY)
-  * [OAuth 2.0实战课](/OAuth 2.0实战课/SUMMARY)
+  * [OAuth 2.0实战课](/OAuth2.0实战课/SUMMARY)
 
 * 📱 移动开发
   * [Android开发高手课](/Android开发高手课/SUMMARY)
@@ -119,16 +119,16 @@
   * [代码精进之路](/代码精进之路/SUMMARY)
   * [代码之丑](/代码之丑/SUMMARY)
   * [软件工程之美](/软件工程之美/SUMMARY)
-  * [Vim 实用技巧必知必会](/Vim 实用技巧必知必会/SUMMARY)
+  * [Vim 实用技巧必知必会](/Vim实用技巧必知必会/SUMMARY)
 
 * 📝 其他课程
   * [AB测试从0到1](/AB测试从0到1/SUMMARY)
-  * [eBPF 核心技术与实战](/eBPF 核心技术与实战/SUMMARY)
+  * [eBPF 核心技术与实战](/eBPF核心技术与实战/SUMMARY)
   * [RPC实战与核心原理](/RPC实战与核心原理/SUMMARY)
   * [OpenResty从入门到实战](/OpenResty从入门到实战/SUMMARY)
   * [即时消息技术剖析与实战](/即时消息技术剖析与实战/SUMMARY)
   * [后端存储实战课](/后端存储实战课/SUMMARY)
-  * [后端技术面试 38 讲](/后端技术面试 38 讲/SUMMARY)
+  * [后端技术面试 38 讲](/后端技术面试38讲/SUMMARY)
   * [业务开发算法50讲](/业务开发算法50讲/SUMMARY)
   * [动态规划面试宝典](/动态规划面试宝典/SUMMARY)
   * [检索技术核心20讲](/检索技术核心20讲/SUMMARY)
@@ -170,7 +170,7 @@
   * [朱赟的技术管理课](/朱赟的技术管理课/SUMMARY)
   * [雷蓓蓓的项目管理实战课](/雷蓓蓓的项目管理实战课/SUMMARY)
   * [赵成的运维体系管理课](/赵成的运维体系管理课/SUMMARY)
-  * [林外 · 专利写作第一课](/林外 · 专利写作第一课/SUMMARY)
+  * [林外 · 专利写作第一课](/林外·专利写作第一课/SUMMARY)
 
 * 🎯 产品与设计
   * [用户体验设计实战课](/用户体验设计实战课/SUMMARY)
@@ -179,7 +179,7 @@
   * [苏杰的产品创新课](/苏杰的产品创新课/SUMMARY)
   * [硅谷产品实战36讲](/硅谷产品实战36讲/SUMMARY)
   * [大厂广告产品心法](/大厂广告产品心法/SUMMARY)
-  * [To B市场品牌实战课](/To B市场品牌实战课/SUMMARY)
+  * [To B市场品牌实战课](/ToB市场品牌实战课/SUMMARY)
   * [技术与商业案例解读](/技术与商业案例解读/SUMMARY)
 
 * 🌱 个人成长
